@@ -39,8 +39,8 @@ https://img.shields.io/badge/{배지이름}-{css컬러}?style={스타일}&logo={
 </P>
 
 <p>
-    <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=git&logoColor=white" />
-    <img alt="Figma" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=git&logoColor=white" />
+    <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" />
+    <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" />
 </p>
 
 ### 공부중인 기술들
