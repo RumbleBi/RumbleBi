@@ -63,13 +63,15 @@ Here are some ideas to get you started:
     <img alt="REST-API" src="https://img.shields.io/badge/REST--API-f2f2f2?style=flat-square&logoColor=black" />
 </p>
 
-<!-- Table -->
+<!-- Table
 
 | Header | Description |
 | :----: | :---------: |
 | Cell1  |    Cell2    |
 | Cell3  |    Cell4    |
 | Cell5  |    Cell6    |
+
+-->
 
 - [x] 클린코드, 효율성을 지향하는 개발자
 - [x] 새로운 기술을 적극적으로 받아들이는 개발자
