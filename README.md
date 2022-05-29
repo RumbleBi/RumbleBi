@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![image description](https://cdn.codingworldnews.com/news/photo/202103/img_2676_0.jpg)
+<img src="https://cdn.codingworldnews.com/news/photo/202103/img_2676_0.jpg" width="100%" height="300"/>
+<!-- ![image description](https://cdn.codingworldnews.com/news/photo/202103/img_2676_0.jpg) -->
 
 ## 항상고민하는 프론트엔드 개발자입니다.
 
