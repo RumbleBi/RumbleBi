@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Contect Me
+## Contact Me
 
 ### `email` olzlel2000@naver.com
 
