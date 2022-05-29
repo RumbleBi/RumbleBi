@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.codingworldnews.com/news/photo/202103/img_2676_0.jpg" width="100%" height="300"/>
 <!-- ![image description](https://cdn.codingworldnews.com/news/photo/202103/img_2676_0.jpg) -->
 
-## 항상고민하는 프론트엔드 개발자입니다.
+# 항상 고민하는 개발자입니다.
 
 ---
 
@@ -73,6 +73,11 @@ Here are some ideas to get you started:
 
 -->
 
+---
+
+## 목표로 하고 있는 것들
+
 - [x] 클린코드, 효율성을 지향하는 개발자
 - [x] 새로운 기술을 적극적으로 받아들이는 개발자
-- [x] 급하지않게, 꾸준하게 나아가는 개발자
+- [x] 급하지 않게, 꾸준하게 나아가는 개발자
+- [x] 내가 사용한 기술들의 장단점, 사용이유에 대해 알고 쓰는 개발자
