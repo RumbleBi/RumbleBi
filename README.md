@@ -12,7 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://visla.kr/wp/wp-content/uploads/2018/03/20180306_08.jpg" width="600" height="426"/>
+
+<p align="center">
+    <img src="https://visla.kr/wp/wp-content/uploads/2018/03/20180306_08.jpg" width="600px" height="426px" />
+</p>
 
 # 항상 고민하는 개발자입니다.
 
