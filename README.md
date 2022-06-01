@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://cdn.codingworldnews.com/news/photo/202103/img_2676_0.jpg" width="100%" height="300"/>
-<!-- ![image description](https://cdn.codingworldnews.com/news/photo/202103/img_2676_0.jpg) -->
+<img src="https://visla.kr/wp/wp-content/uploads/2018/03/20180306_08.jpg" width="100%" height="300"/>
 
 # 항상 고민하는 개발자입니다.
 
@@ -26,7 +25,7 @@ Here are some ideas to get you started:
 ### `notion` https://diligent-concrete-45a.notion.site/9279c1cf3ce04dcfa1abf76ebe1bc0cc
 
 ### `blog` https://velog.io/@olzlel2000
-'
+
 ---
 
 ## 현재 기술 스택
@@ -65,6 +64,15 @@ Here are some ideas to get you started:
     <img alt="REST-API" src="https://img.shields.io/badge/REST--API-f2f2f2?style=flat-square&logoColor=black" />
 </p>
 
+---
+
+## 목표로 하고 있는 것들
+
+- [x] 클린코드, 효율성을 지향하는 개발자
+- [x] 새로운 기술을 적극적으로 받아들이는 개발자
+- [x] 급하지 않게, 꾸준하게 나아가는 개발자
+- [x] 내가 사용한 기술들의 장단점, 사용이유에 대해 알고 쓰는 개발자
+
 <!-- Table
 
 | Header | Description |
@@ -74,12 +82,3 @@ Here are some ideas to get you started:
 | Cell5  |    Cell6    |
 
 -->
-
----
-
-## 목표로 하고 있는 것들
-
-- [x] 클린코드, 효율성을 지향하는 개발자
-- [x] 새로운 기술을 적극적으로 받아들이는 개발자
-- [x] 급하지 않게, 꾸준하게 나아가는 개발자
-- [x] 내가 사용한 기술들의 장단점, 사용이유에 대해 알고 쓰는 개발자
