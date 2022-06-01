@@ -23,8 +23,10 @@ Here are some ideas to get you started:
 
 ### `email` olzlel2000@naver.com
 
-### `blog` https://velog.io/@olzlel2000
+### `notion` https://diligent-concrete-45a.notion.site/9279c1cf3ce04dcfa1abf76ebe1bc0cc
 
+### `blog` https://velog.io/@olzlel2000
+'
 ---
 
 ## 현재 기술 스택
