@@ -17,7 +17,7 @@ Here are some ideas to get you started:
     <img src="https://visla.kr/wp/wp-content/uploads/2018/03/20180306_08.jpg" width="600px" height="426px" />
 </p>
 
-# 항상 고민하는 개발자입니다.
+# 항상 생각하는 개발자입니다.
 
 ---
 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <P>
     <img alt="React" src="https://img.shields.io/badge/React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-    <img alt="NextJS" src="https://img.shields.io/badge/NextJS-black?style=flat-square&logo=Next.js&logoColor=white">
+    <img alt="NextJS" src="https://img.shields.io/badge/NextJS-black?style=flat-square&logo=Next.js&logoColor=white" />
     <img alt="Apollo"src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
     <img alt="GraphQL"src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 </P>
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
     <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
     <img alt="JavaScript"src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
     <img alt="TypeScript"src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-    <img alt="emotion" src="https://img.shields.io/badge/emotion-DB7093?style=flat-square&logo=styled-components&logoColor=white "/>
+    <img alt="emotion" src="https://img.shields.io/badge/emotion-DB7093?style=flat-square&logo=styled-components&logoColor=white" />
 </p>
 <p>
     <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -77,11 +77,9 @@ Here are some ideas to get you started:
 - [x] 내가 사용한 기술들의 장단점, 사용이유에 대해 알고 쓰는 개발자
 
 <!-- Table
-
 | Header | Description |
 | :----: | :---------: |
 | Cell1  |    Cell2    |
 | Cell3  |    Cell4    |
 | Cell5  |    Cell6    |
-
 -->
