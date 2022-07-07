@@ -1,23 +1,8 @@
-<!--
-**RumbleBi/RumbleBi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <p align="center">
     <img src="https://visla.kr/wp/wp-content/uploads/2018/03/20180306_08.jpg" width="600px" height="426px" />
 </p>
 
-# 항상 생각하는 개발자입니다.
+# 꾸준히 나아가는 개발자 입니다.
 
 ---
 
@@ -61,7 +46,6 @@ Here are some ideas to get you started:
 ## 공부중인 기술들
 
 <p>
-    <img alt="React-native" src="https://img.shields.io/badge/React--native-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="Redux"src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white" />
     <img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-f2f2f2?style=flat-square&logo=Socket.io&logoColor=black" />
     <img alt="REST-API" src="https://img.shields.io/badge/REST--API-f2f2f2?style=flat-square&logoColor=black" />
@@ -73,7 +57,7 @@ Here are some ideas to get you started:
 
 - [x] 클린코드, 효율성을 지향하는 개발자
 - [x] 새로운 기술을 적극적으로 받아들이는 개발자
-- [x] 급하지 않게, 꾸준하게 나아가는 개발자
+- [x] 내가 짠 코드를 이해하면서 꾸준하게 나아가는 개발자
 - [x] 내가 사용한 기술들의 장단점, 사용이유에 대해 알고 쓰는 개발자
 
 <!-- Table
