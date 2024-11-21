@@ -46,7 +46,7 @@
 
 <div align="center">
     <img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwindcss-06B6D4?style=flat-square&logo=Tailwindcss&logoColor=white" />&nbsp;
-    <img alt="SWR" src="https://img.shields.io/badge/SWR-000000?style=flat-square&logo=SWR&logoColor=white" />&nbsp;
+    <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white" />&nbsp;
     <img alt="Next.js App Router" src="https://img.shields.io/badge/App Router-000000?style=flat-square&logo=Next.js&logoColor=white" />&nbsp;
 </div>
 
